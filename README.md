@@ -6,7 +6,7 @@ Modulo BM
 - Instalação do Sqlite para Roda o Banco Local.
 
 
--# O PROJETO DEVE TA NA UNIDADE.
+-# O PROJETO DEVE ESTAR NA UNIDADE.
 - C:\
 
 
