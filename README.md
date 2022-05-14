@@ -1,2 +1,8 @@
 # modulo-BM
-Modulo
+Modulo BM
+
+
+-# Inicialização
+
+- Instalação do Sqlite para Roda o Banco Local.
+- 
