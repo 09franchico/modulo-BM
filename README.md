@@ -10,5 +10,9 @@ Modulo BM
 - C:\
 
 
+- # EXECUATVEL APLICAÇÂO
+- C:C:\Modulo Bemol\Win32\Debug
+
+
 
 
